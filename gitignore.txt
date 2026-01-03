@@ -1,0 +1,19 @@
+# SAS data files
+*.sas7bdat
+*.sas7bdat.*
+*.xpt
+*.ssd01
+*.sd2
+*.sd7
+*.sasdata
+
+# SAS logs and outputs
+*.log
+*.lst
+*.html
+*.pdf
+*.rtf
+
+# SAS temporary files
+*.tmp
+*.bak
